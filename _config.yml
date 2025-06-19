@@ -641,3 +641,12 @@ jsonresume:
   - languages
   - interests
   - references
+
+exclude:
+  - _pages/blog.md
+  - _posts/
+  - assets/jupyter/blog.ipynb
+  - _pages/cv.md
+  - _pages/publications.md
+  - _pages/repositories.md
+  - _pages/teaching.md
